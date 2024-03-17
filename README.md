@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-
-**Nabievss/Nabievss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### About me:
+ - Currently i am a sudent in Taiwan.
 
 - 🌱 I’m currently learning the C++ and C programming languagesю
 - 📫 How to reach me: saidladjarov@.gmail.com
